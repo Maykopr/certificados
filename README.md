@@ -1,10 +1,25 @@
 # - 👨‍💻 Alguns dos meus certificados
 
-## Os certificados abaixo demonstram apenas parte da jornada de um dev. Há muito a ser trilhado ainda.
+## Os certificados abaixo demonstram apenas a parte inicial da minha jornada. Acredito que o maior aprendizado vem das experiências reais e dos projetos que estão sendo construídos.
 
-![imagem](https://github.com/Maykopr/certificados/blob/main/JavaScript.jpg)
-![imagem](https://github.com/Maykopr/certificados/blob/main/web%20design.jpg)
-![imagem](https://github.com/Maykopr/certificados/blob/main/fundamentos%20JS%20Assincrono.jpg)
-![imagem](https://github.com/Maykopr/certificados/blob/main/frontend2.jpg)
-![imagem](https://github.com/Maykopr/certificados/blob/main/desenvolvimento%20de%20app.jpg)
-![imagem](https://github.com/Maykopr/certificados/blob/main/bootstrap%20DIO.jpg)
+![imagem](./freeCodeCamp%20certifications/back-end_%20freeCodeCamp.org.pdf)
+
+## Danki Code
+
+![imagem](./Danki-code/desenvolvimento-app-dankicode.jpg)
+![imagem](./Danki-code/design-app-dankicode.jpg)
+![imagem](./Danki-code/frontend1-dankicode.jpg)
+![imagem](./Danki-code/frontend2-dankicode.jpg)
+![imagem](./Danki-code/javascript-dankicode.jpg)
+![imagem](./Danki-code/logica-de-programacao-dankicode.jpg)
+![imagem](./Danki-code/node-dankicode.jpg)
+![imagem](./Danki-code/python-dankicode.jpg)
+![imagem](./Danki-code/python-dankicode.jpg)
+![imagem](./Danki-code/web-desing-dankicode.jpg)
+![imagem](./Danki-code/wordpress-dankicode.jpg)
+
+## DIO
+![imagem](./DIO/flexbox-DIO.jpg)
+![imagem](./DIO/Bootstrap-DIO-1.jpg)
+![imagem](./DIO/Fundamentos-js-Assíncrono-DIO.jpg)
+![imagem](./DIO/jquery-DIO.jpg)
